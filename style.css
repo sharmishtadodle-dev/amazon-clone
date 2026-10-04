@@ -470,3 +470,11 @@ button {
     }
 
 }   
+.demo-notice {
+    background-color: #fff3cd;
+    color: #664d03;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+    font-weight: 600;
+}
